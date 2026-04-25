@@ -1,5 +1,5 @@
 # Word Whirl 
-A fork of VTT's existing Word Whirl (So Clover), with an [url=https://boardgamegeek.com/thread/3638738/new-large-word-set]expanded dictionary list (EN only)[/url]
+A fork of VTT's existing Word Whirl (So Clover), with an [url=https://boardgamegeek.com/thread/3638738/new-large-word-set] expanded English dictionary list[/url].
 
 [![][1]][2]
 
